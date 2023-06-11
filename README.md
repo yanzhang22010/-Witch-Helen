@@ -79,10 +79,27 @@ The entire sensor unit is integrated into the game gloves, so players can simply
 
 By choosing such a physics engine, we aim to provide a unique and creative gaming experience, while learning to apply our Arduino knowledge in practice to further enhance our capabilities in physical computing and interactive design.
 
+### Art style
+
+Mid-century vintage hand-painted, 2.5D
+
 ![IMG_1177](https://github.com/yanzhang22010/Creative-Making-Game-Witch-Helen-/assets/119860662/af7547af-b382-41df-9fd5-c159baf30386)
 ![IMG_1178](https://github.com/yanzhang22010/Creative-Making-Game-Witch-Helen-/assets/119860662/0f76c3c7-5157-48d0-9fef-b13dd1018cfa)
 ![IMG_1179](https://github.com/yanzhang22010/Creative-Making-Game-Witch-Helen-/assets/119860662/342838c2-da1c-4cfd-b52a-4e5b5899a53f)
 ![IMG_1181](https://github.com/yanzhang22010/Creative-Making-Game-Witch-Helen-/assets/119860662/6dbb0b97-0d7a-4703-8136-d6e40d7d6404)
+![蜘蛛_死亡](https://github.com/yanzhang22010/Creative-Making-Game-Witch-Helen-/assets/119860662/ace4e4a5-106a-4332-ad3a-5154c9ba4c86)
+![攻击-兔](https://github.com/yanzhang22010/Creative-Making-Game-Witch-Helen-/assets/119860662/6c1f0cad-d3da-4304-ac1b-3dd8bbd5dcf9)
 
 ![IMG_1150](https://github.com/yanzhang22010/Creative-Making-Game-Witch-Helen-/assets/119860662/1ab09926-157b-4d02-8791-6edca4084e14)
+
+### Character Design
+
+![image](https://github.com/yanzhang22010/Creative-Making-Game-Witch-Helen-/assets/119860662/011c0fea-0144-4d09-9baf-592eac549d33)
+![image](https://github.com/yanzhang22010/Creative-Making-Game-Witch-Helen-/assets/119860662/884e633d-4cf6-4be0-8f17-6cb54bf4d586)
+![未命名作品](https://github.com/yanzhang22010/Creative-Making-Game-Witch-Helen-/assets/119860662/8e2edfd9-ef9a-400a-87ba-17bedd09159b)
+
+### scene design
+
+![IMG_7791](https://github.com/yanzhang22010/Creative-Making-Game-Witch-Helen-/assets/119860662/0248456e-a9dc-48bc-a415-2aa32eaf8f0e)
+
 
