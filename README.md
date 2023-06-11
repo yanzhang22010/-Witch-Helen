@@ -57,6 +57,10 @@ Through the above technical choices and design, we are committed to creating a r
 
 ### Physics Engine
 
+![IMG_1072](https://github.com/yanzhang22010/Creative-Making-Game-Witch-Helen-/assets/119860662/3153325c-1b63-48c3-832e-b86f964dc785)
+![IMG_1119](https://github.com/yanzhang22010/Creative-Making-Game-Witch-Helen-/assets/119860662/d4faf464-f8ac-4bd5-bcaa-14a9c9e126e4)
+
+
 In order to better exercise the Arduino knowledge we previously learned through the course, we chose to use Arduino to create external devices to enhance the game experience. After screening multiple sensors and considering multiple perspectives such as game fit, playability and smooth operation, we finally chose to use the MPU6050 gyroscope to control the character's movement and the bend sensor to control the character's picking and attacking actions. These sensor devices are integrated into an interesting game glove.
 
 Through the MPU6050 gyroscope, players can control the movement of the characters in the game through the movement of their hands. With the sensitive sensing of the gyroscope, players can explore the open world of the game and interact with the environment in a natural and intuitive way.
