@@ -36,6 +36,8 @@ Through the game's presentation, we aim to deepen players' understanding of the 
 
 ### Gameplay
 
+![IMG_1133](https://github.com/yanzhang22010/Creative-Making-Game-Witch-Helen-/assets/119860662/b2ba1be9-16d0-402a-8c8b-4b8232401bbc)
+
 1. Control the movement of the game character by tilting the glove back and forth, left and right.
 2. You need to bend your fingers to pick food to increase the amount of blood, and collect the forbidden book to obtain pieces of memories to increase the spiritual value.
 3. During the collection process will encounter the attacking monsters, through the battle to kill the monsters.
@@ -44,6 +46,12 @@ Failure condition: blood amount reaches 0
 enemy behavior: move around food, attack when the character enters the range.
 
 ### Technology
+
+![IMG_8015(20230610-212530)](https://github.com/yanzhang22010/Creative-Making-Game-Witch-Helen-/assets/119860662/215af969-80d1-4d3e-99a2-9ca0a9d2de0f)
+
+![IMG_8016(20230610-212941)](https://github.com/yanzhang22010/Creative-Making-Game-Witch-Helen-/assets/119860662/d4262c39-82d7-4522-9987-5ee9477f219f)
+
+![IMG_8017(20230610-213119)](https://github.com/yanzhang22010/Creative-Making-Game-Witch-Helen-/assets/119860662/803f435b-1a60-489c-b92a-2b25e192701d)
 
 On the technical side, we used Unity as the software platform for game development, which provides powerful tools and features to create high-quality game experiences.
 
