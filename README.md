@@ -44,9 +44,10 @@ Through the game's presentation, we aim to deepen players' understanding of the 
 1. Control the movement of the game character by tilting the glove back and forth, left and right.
 2. You need to bend your fingers to pick food to increase the amount of blood, and collect the forbidden book to obtain pieces of memories to increase the spiritual value.
 3. During the collection process will encounter the attacking monsters, through the battle to kill the monsters.
-Win condition: collect all the forbidden books and blood is not zero
-Failure condition: blood amount reaches 0
-enemy behavior: move around food, attack when the character enters the range.
+
+Win condition: collect all the forbidden books and blood is not zero.
+Failure condition: blood amount reaches 0.
+Enemy behavior: move around food, attack when the character enters the range.
 
 ## Technology
 
@@ -86,9 +87,9 @@ By choosing such a physics engine, we aim to provide a unique and creative gamin
 
 Character design keywords medieval, countryside, young girl, adventure.
 
+![向前走](https://github.com/yanzhang22010/Helen/assets/119860662/accab0b8-3f11-491f-ac0a-6de2971c72bc)
+
 ![image](https://github.com/yanzhang22010/Creative-Making-Game-Witch-Helen-/assets/119860662/011c0fea-0144-4d09-9baf-592eac549d33)
-![image](https://github.com/yanzhang22010/Creative-Making-Game-Witch-Helen-/assets/119860662/884e633d-4cf6-4be0-8f17-6cb54bf4d586)
-![未命名作品](https://github.com/yanzhang22010/Creative-Making-Game-Witch-Helen-/assets/119860662/8e2edfd9-ef9a-400a-87ba-17bedd09159b)
 
 ## Art style
 
