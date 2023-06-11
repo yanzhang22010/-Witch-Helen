@@ -79,3 +79,7 @@ The entire sensor unit is integrated into the game gloves, so players can simply
 
 By choosing such a physics engine, we aim to provide a unique and creative gaming experience, while learning to apply our Arduino knowledge in practice to further enhance our capabilities in physical computing and interactive design.
 
+![Uploading IMG_1177.JPG…]()
+![Uploading IMG_1178.JPG…]()
+![Uploading IMG_1179.JPG…]()
+![Uploading IMG_1181.JPG…]()
