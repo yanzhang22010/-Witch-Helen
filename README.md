@@ -73,13 +73,16 @@ In order to better exercise the Arduino knowledge we previously learned through 
 
 Through the MPU6050 gyroscope, players can control the movement of the characters in the game through the movement of their hands. With the sensitive sensing of the gyroscope, players can explore the open world of the game and interact with the environment in a natural and intuitive way.
 
-In addition, we have used bending sensors that allow players to simulate the picking and attacking movements of the characters through the bending movements of their fingers. This near-real-action interaction will enhance player immersion and engagement, making the game experience more interesting and interactive.
+In addition, we have used Flex sensor that allow players to simulate the picking and attacking movements of the characters through the bending movements of their fingers. This near-real-action interaction will enhance player immersion and engagement, making the game experience more interesting and interactive.
 
 The entire sensor unit is integrated into the game gloves, so players can simply put on the gloves and play the game directly. This design aims to provide an intuitive and fun way to interact, allowing players to better experience the world of the game and create a closer connection with the game characters.
 
 By choosing such a physics engine, we aim to provide a unique and creative gaming experience, while learning to apply our Arduino knowledge in practice to further enhance our capabilities in physical computing and interactive design.
 
-![Uploading IMG_1177.JPG…]()
-![Uploading IMG_1178.JPG…]()
-![Uploading IMG_1179.JPG…]()
-![Uploading IMG_1181.JPG…]()
+![IMG_1177](https://github.com/yanzhang22010/Creative-Making-Game-Witch-Helen-/assets/119860662/af7547af-b382-41df-9fd5-c159baf30386)
+![IMG_1178](https://github.com/yanzhang22010/Creative-Making-Game-Witch-Helen-/assets/119860662/0f76c3c7-5157-48d0-9fef-b13dd1018cfa)
+![IMG_1179](https://github.com/yanzhang22010/Creative-Making-Game-Witch-Helen-/assets/119860662/342838c2-da1c-4cfd-b52a-4e5b5899a53f)
+![IMG_1181](https://github.com/yanzhang22010/Creative-Making-Game-Witch-Helen-/assets/119860662/6dbb0b97-0d7a-4703-8136-d6e40d7d6404)
+
+![IMG_1150](https://github.com/yanzhang22010/Creative-Making-Game-Witch-Helen-/assets/119860662/1ab09926-157b-4d02-8791-6edca4084e14)
+
