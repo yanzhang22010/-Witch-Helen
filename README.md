@@ -3,7 +3,7 @@
 ## Team work
 Jiaxin Liang, Xu Qian, Yanzhang, Yifei Yang
 
-## Game Viedo LInk: < https://youtu.be/C3ZXQG8m0h4
+## Game Viedo LInk: https://youtu.be/C3ZXQG8m0h4
 
 ## Game Identity
 
